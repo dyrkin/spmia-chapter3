@@ -1,0 +1,2 @@
+include 'licensing-service'
+include 'confsvr'
